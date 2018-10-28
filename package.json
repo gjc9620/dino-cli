@@ -1,0 +1,28 @@
+{
+  "name": "dino-cli",
+  "version": "0.0.1",
+  "description": "dino-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dino-cli": "node tasks/create-dino-project.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjc9620/dino-cli.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "gujiacheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gjc9620/dino-cli/issues"
+  },
+  "homepage": "https://github.com/gjc9620/dino-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.0"
+  }
+}
