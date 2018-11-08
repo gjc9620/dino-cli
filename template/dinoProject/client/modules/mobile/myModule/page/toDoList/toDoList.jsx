@@ -1,5 +1,5 @@
 import React, { Component, PropTypes } from 'react';
-import { connect } from 'react-redux';
+// import { connect } from 'react-redux';
 import View from 'myModule/View';
 import commonFunction from 'myModule/commonFunction';
 
