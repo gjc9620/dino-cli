@@ -1,7 +1,7 @@
 export default {
   // API: {
   //   serverName: {
-  //     host: 'api.server.com',
+  //     host: 't-api.server.com',
   //   },
   // },
 }

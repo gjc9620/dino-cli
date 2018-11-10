@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "dino": "0.0.1"
+  },
+  "scripts": {
+    "start": "dino start",
+    "build:pc": "dino build pc",
+    "build:mobile": "dino build mobile",
+    "test": "dino test",
+    "eject": "dino eject"
+  }
+}
